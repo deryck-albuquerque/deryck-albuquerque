@@ -88,11 +88,3 @@ Atuei na Sidia, evoluindo de estagiário para Software Engineer, contribuindo pa
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deryck-albuquerque&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deryck-albuquerque&layout=compact&hide_border=true)
