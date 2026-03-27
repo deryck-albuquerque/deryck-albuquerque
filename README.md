@@ -93,7 +93,6 @@ Atuei na Sidia, evoluindo de estagiário para Software Engineer, contribuindo pa
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deryck-albuquerque&show_icons=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deryck-albuquerque&layout=compact&hide_border=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deryck-albuquerque&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deryck-albuquerque&layout=compact&hide_border=true)
